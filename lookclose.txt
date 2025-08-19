@@ -1,0 +1,2 @@
+Sometimes Paste holds more than words.  
+Search with: specter:check_paste
